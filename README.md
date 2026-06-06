@@ -22,7 +22,7 @@ Before installing please remember that:
 **I am not responsible for bricked devices or dead SD cards**
 ### Prequirements:
 - Unlocked Bootloader
-### Instructions:
+### Flashing Instructions:
  1. Download and install:
    - [ADB & FASTBOOT](https://developer.android.com/tools/releases/platform-tools?hl=en)
    - [Google USB Drivers](https://developer.android.com/studio/run/win-usb?hl=en)
