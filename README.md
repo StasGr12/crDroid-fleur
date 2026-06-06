@@ -44,8 +44,8 @@ Before installing please remember that:
     - When in recovery press the Factory Reset button then press format data twice
     - Press apply update button and Apply from ADB
     - Run this command in CMD:
-    - adb sideload <ROM NAME>.zip
-    - Make sure that you replace <ROM NAME> with the real name of ROM zip file
+    - adb sideload "ROM NAME".zip
+    - Make sure that you replace "ROM NAME" with the real name of ROM zip file
     - Press the reboot to system button
  6. Enjoy!
 
